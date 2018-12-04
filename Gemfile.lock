@@ -432,6 +432,7 @@ DEPENDENCIES
   devise
   devise-bootstrap-views
   fog
+  fog-aws
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
